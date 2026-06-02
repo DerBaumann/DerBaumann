@@ -2,9 +2,11 @@
 
 **`Failure is not an Option<T>, It's a Result<T, E>`**
 
-Hey there. My Name is Pierre. I am currently doing an Apprenticeship as a Software Engineer in Switzerland.
-When I'm not working on things for school, I am currently working on a automated daily todo-list in Rust because I have issues keeping up with my daily tasks.
-In my free time I like to cook, bake and try to get fit using my bicycle or lifing weights.
+Hey there. My name is Pierre. I am currently doing an apprenticeship as a software engineer in Switzerland.
+
+When I'm not working on things for school, I'm working on other random projects like CLI's, apps or fixing my system because I broke something again.
+
+In my free time I like to go outside, cook, or just chill on the Couch ~~medicating~~ _meditating_.
 
 _Portfolio coming soon_
 
