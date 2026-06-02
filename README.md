@@ -32,7 +32,7 @@ _Portfolio coming soon_
 
 <div style="display: flex">
   <img style="height: 35px" alt="Zig" src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white" />
-  <img style="height: 35px" alt="NixOS" src="https://img.shields.io/badge/NixOS-466ABDE?logo=nixos&logoColor=white" />
+  <img style="height: 35px" alt="NixOS" src="https://img.shields.io/badge/NixOS-66ABDE?logo=nixos&logoColor=white" />
   <img style="height: 35px" alt="Async Rust" src="https://img.shields.io/badge/Async%20Rust-222222?logo=tokio&logoColor=white" />
 </div>
 <!--
