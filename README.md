@@ -23,7 +23,7 @@ _Portfolio coming soon_
   <img style="height: 35px" alt="Postgres" src="https://img.shields.io/badge/Postgres-336691?logo=postgresql&logoColor=white" />
   <img style="height: 35px" alt="Git" src="https://img.shields.io/badge/Git-FD3F38?logo=git&logoColor=white" />
   <img style="height: 35px" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-00BCFF?logo=tailwindcss&logoColor=white" />
-  <img style="height: 35px" alt="Astro" src="https://img.shields.io/badge/Astro-BA3EF5?logo=astro&logoColor=white" />
+  <!-- <img style="height: 35px" alt="Astro" src="https://img.shields.io/badge/Astro-BA3EF5?logo=astro&logoColor=white" /> -->
   <img style="height: 35px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img style="height: 35px" alt="NeoVim" src="https://img.shields.io/badge/NeoVim-00B952?logo=neovim&logoColor=white" />
   <img style="height: 35px" alt="Tmux" src="https://img.shields.io/badge/Tmux-222222?logo=tmux&logoColor=white" />
@@ -36,6 +36,7 @@ _Portfolio coming soon_
   <img style="height: 35px" alt="Zig" src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white" />
   <img style="height: 35px" alt="NixOS" src="https://img.shields.io/badge/NixOS-66ABDE?logo=nixos&logoColor=white" />
   <img style="height: 35px" alt="Async Rust" src="https://img.shields.io/badge/Async%20Rust-222222?logo=tokio&logoColor=white" />
+  <img style="height: 35px" alt="Async Rust" src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white" />
 </div>
 <!--
 **DerBaumann/DerBaumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
