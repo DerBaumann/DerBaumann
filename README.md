@@ -33,10 +33,13 @@ _Portfolio coming soon_
 ## Interested in learning
 
 <div style="display: flex">
-  <img style="height: 35px" alt="Zig" src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white" />
+  <!-- <img style="height: 35px" alt="Zig" src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white" /> -->
   <img style="height: 35px" alt="NixOS" src="https://img.shields.io/badge/NixOS-66ABDE?logo=nixos&logoColor=white" />
   <img style="height: 35px" alt="Async Rust" src="https://img.shields.io/badge/Async%20Rust-222222?logo=tokio&logoColor=white" />
-  <img style="height: 35px" alt="Async Rust" src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white" />
+  <img style="height: 35px" alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white" />
+  <img style="height: 35px" alt="Gleam" src="https://img.shields.io/badge/Gleam-FFB1F3?logo=gleam&logoColor=FFB1F3&labelColor=222222" />
+  <img style="height: 35px" alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" />
+  <img style="height: 35px" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
 </div>
 <!--
 **DerBaumann/DerBaumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
